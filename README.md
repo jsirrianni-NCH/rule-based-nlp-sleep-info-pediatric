@@ -1,0 +1,3 @@
+This repository contains the vocabulary set and code to search an input text against the vocabulary for the purpose of discovering sleep related mentions in the input text. 
+
+Work in progress....
